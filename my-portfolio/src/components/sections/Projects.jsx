@@ -4,7 +4,7 @@ import { ExternalLink, Github } from "lucide-react";
 const Projects = () => {
   const projects = [
     {
-      title: "Swiggy Clone With Live API",
+      title: "Food Ordering & Restaurant Discovery Platform",
       description:
         "A fully functional food ordering app clone with live API integration, finding nearby restaurants, menu browsing, and cart functionality.",
       tech: ["React", "Redux Toolkit", "Tailwind Code", "Live API"],
@@ -15,7 +15,7 @@ const Projects = () => {
       color: "from-orange-500 to-orange-600",
     },
     {
-      title: "Netflix",
+      title: "Video Streaming Platform with Authentication",
       description:
         "Developed a Netflix-style frontend application with Firebase Authentication (Login / Signup) and protected routes",
       tech: ["React", "Firebase", "Tailwind CSS", "TMDB API"],
@@ -26,7 +26,7 @@ const Projects = () => {
       color: "from-red-600 to-red-700",
     },
     {
-      title: "Food Delivery App",
+      title: "Food Delivery App With Admin Panel",
       description:
         "A full-stack Food Delivery platform where a users can order the food and admin can manage the orders.",
       tech: ["MongoDB", "Express", "React", "Node.js", "JWT"],
@@ -37,7 +37,7 @@ const Projects = () => {
       color: "from-green-500 to-emerald-600",
     },
     {
-      title: "Spotify Clone Full-Stack",
+      title: "Music Streaming Web Application",
       description:
         "A full-stack Spotify clone where users can listen to songs, and admins can manage albums and songs.",
       tech: ["MERN Stack", "Tailwind CSS", "Audio API"],
