@@ -44,7 +44,7 @@ const Navbar = () => {
             </a>
           ))}
           <a
-            href="https://drive.google.com/file/d/1clK4NXR9bEyV69Ztz-l25k3OssFVf0Iv/view"
+            href="https://drive.google.com/file/d/1okTossrJY3Dpu0ZfdPog6T43C8SUN864/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             className="px-5 py-2 rounded-full border border-cyan-500/30 text-cyan-400 hover:bg-cyan-500/10 transition-all duration-300"
